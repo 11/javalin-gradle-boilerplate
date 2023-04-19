@@ -1,4 +1,4 @@
-javalin-gradle-boilerplate ☕️
+# javalin-gradle-boilerplate ☕️
 
 ### Description
 
